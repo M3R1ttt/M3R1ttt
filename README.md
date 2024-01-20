@@ -11,9 +11,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=M3R1ttt&label=Profile%20Views&color=4&icon=7&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=M3R1ttt&label=Profile%20Views&color=4&icon=7&pretty=true" />
-</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
 
