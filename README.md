@@ -13,7 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=M3R1ttt&label=Profile%20Views&color=4&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **M3R1ttt/M3R1ttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
