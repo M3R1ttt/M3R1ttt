@@ -10,7 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M3R1ttt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M3R1ttt&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=M3R1ttt&label=Profile%20Views&color=4&icon=7&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=M3R1ttt&label=Profile%20Views&color=4&icon=7&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
 
